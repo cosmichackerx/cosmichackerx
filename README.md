@@ -1,111 +1,232 @@
-# CosmicHackerX: Decoding the Digital Universe 🚀🔓
-
 <div align="center">
-  <img src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif" alt="Matrix Code Rain" width="600"/>
+
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=COSMIC%20HACKER%20X&fontSize=50&fontColor=00FFFF&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20the%20Matrix&descSize=20&descAlignY=55" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=System+Breach+Detected+%E2%9A%A0%EF%B8%8F;Accessing+Mainframe...;Cyber+Architect+%7C+Code+Ninja;Breaking+Firewalls+Daily+%F0%9F%94%A5;Reality+is+just+Code+%F0%9F%92%BB" alt="Typing SVG" /></a>
+
 </div>
-
-Hey there, digital nomad! 🌌 I'm **cosmichackerx**, a BSCS trailblazer fusing code, cybersecurity, and cosmic creativity. As a multilingual explorer of logic, legends, and lifelong learning, I hack through the stars with Java precision and Kotlin flair. Ethical hacking? Check. Global cultures in code? Absolutely. Let's decrypt the universe together—fork, star, or collab to craft epic digital realms!
-
-**Key Vibes:**
-- **Cyber Sentinel**: Guarding the net with ethical hacks and CTF conquests.
-- **Java Jedi**: Mastering the force of object-oriented empires.
-- **Kotlin Voyager**: Navigating multiplatform adventures with coroutines and flows.
-- **Creative Cosmos**: Blending tech with cultural storytelling, AI ethics, and VR visions.
-
-In the matrix of code, we trust—hack ethically, innovate boldly! 💻🌠
-
-## About the Cosmic Hacker
-Dive into my world: A passionate BSCS student obsessed with Java, cybersecurity, and unleashing creativity through code. From building secure apps to exploring blockchain's enigmas, I'm on a quest to merge technology with global cultures. Multilingual mindset? Yes—logic in every language! Interests span ethical hacking, app dev, backend wizardry, and quantum curiosities. Motto: "Code is poetry; hack is art."
-
-## Hacker Toolkit: My Arsenal of Awesomeness
-Armed and ready for digital battles:
-
-| Skill Category | Tools & Tech | Level |
-|---------------|-------------|-------|
-| Languages | Java, Kotlin, Python, C++ | Expert in Java & Kotlin |
-| Frameworks | Android Jetpack, Ktor, Spring Boot, Docker | Advanced |
-| Domains | Cybersecurity (Ethical Hacking, CTF), App Dev, Multiplatform, Backend | Pro |
-| Emerging Quests | Quantum Computing, AI-Driven Security, Blockchain | Exploring |
-
-Common exploits avoided: Always prioritize security—think Wireshark scans and encrypted comms!
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/KBe_nw4IL2QAAAAC/matrix-code.gif" alt="Matrix Code Flow" width="500"/>
-</div>
-
-## GitHub Metrics: Hacking My Stats
-Witness the code commits in motion—neon-lit and cyberpunk styled!
-
-<!-- PROFILE STATS -->
-<div align="center" style="margin-top: 15px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF; width: 95%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosmichackerx&show_icons=true&theme=tokyonight&border_color=00FFFF&title_color=9D00FF&icon_color=9D00FF&text_color=FFFFFF" width="420" alt="cosmichackerx GitHub Stats"/>
-</div>
-<!-- STREAK STATS -->
-<div align="center" style="margin-top: 15px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF; width: 95%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmichackerx&theme=tokyonight&border=00FFFF&ring=9D00FF&fire=9D00FF&currStreakLabel=00FFFF" width="420" alt="GitHub Streak"/>
-</div>
-<!-- TOP LANGUAGES -->
-<div align="center" style="margin-top: 15px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF; width: 95%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmichackerx&layout=compact&theme=tokyonight&title_color=9D00FF&text_color=FFFFFF&border_color=00FFFF" width="320" alt="Top Languages"/>
-</div>
-
-## Cosmic Creations: Projects in Orbit
-- **[kotlinverse](https://github.com/cosmichackerx/kotlinverse)**: A stellar collection of Kotlin libs for Android, backend, multiplatform, and more. Hack your way through curated tools!
-- **Muhammad's Journey**: A personal growth tracker app leveraging Kotlin's OOP classes—from data to sealed—for task mastery and self-evolution.
-- **Cyber Quests**: Ethical hacking toolkit in development—CTF solvers, security scanners, all with a cosmic twist.
-Upcoming: AI ethics explorers and VR cultural simulations. Stay tuned for launches!
-
-## Link Up in the Cyber Void
-- **X (formerly Twitter)**: [@cosmichackerx](https://x.com/cosmichackerx) – Drop a DM for collab ideas!
-- **LinkedIn**: [cosmichackerx](https://www.linkedin.com/in/cosmichackerx) – Professional networking with a hacker edge.
-- **Blog**: Launching soon—deep dives into code culture and security sagas.
-
-Thanks for hacking by! Let's build, break (ethically), and innovate. 🌟🔒
 
 ---
 
-Welcome to the extended decode of cosmichackerx's digital domain—a comprehensive profile crafted for fellow coders, hackers, and cosmic explorers. This README serves as your gateway into a world where technology meets creativity, security safeguards innovation, and global perspectives fuel lifelong learning. Infused with hacker vibes, neon aesthetics, and animated motions, it's designed to immerse you in the essence of a BSCS student who's as passionate about Java's robust structures as Kotlin's elegant flows, all while navigating the ethical frontiers of cybersecurity.
+## 🔴 [ IDENTITY PROTOCOL ]
 
-### The Origin Story: Who is CosmicHackerX?
-Picture this: A digital nomad born from the fusion of binary stars and ancient legends. As cosmichackerx, I'm a BSCS enthusiast with a global lens—multilingual in languages and code alike. My journey blends logic's precision with creativity's chaos, drawing from cultures worldwide to craft tech solutions that resonate. From ethical hacking sessions that feel like interstellar quests to app developments inspired by real-world narratives, my personality thrives on exploration. Remember those flowcharts for Kotlin's loops or the mind maps for coroutines? They're echoes of my structured yet imaginative approach. Motto reiterated: "In the code we trust—hack smart, create bold!" This isn't just a profile; it's a manifesto for ethical innovation in a connected cosmos.
+```bash
+> whoami
+cosmichackerx@terminal:~$ Initializing identity matrix...
 
-### Deep Dive into the Hacker Toolkit
-Beyond the basics, let's unpack the arsenal with real-world analogies and hacker-flavored insights. Think of this as your encrypted vault of skills:
+┌─────────────────────────────────────────────────┐
+│  STATUS: Online & Operational                   │
+│  ROLE: Full-Stack Hacker | Digital Architect    │
+│  MISSION: Breaking Systems, Building Empires    │
+│  MINDSET: Reality is Just Syntax                │
+│  DANGER LEVEL: ████████████ 100%               │
+└─────────────────────────────────────────────────┘
+```
 
-| Category | Key Elements | Hacker Analogy | Real-World Application |
-|----------|--------------|---------------|------------------------|
-| Languages | Java (core for robust systems), Kotlin (for concise multiplatform magic), Python (scripting hacks), C++ (low-level exploits) | Java as the fortified bunker, Kotlin as the agile drone | Building secure Android apps or backend servers that withstand cyber storms |
-| Frameworks & Tools | Android Jetpack (UI/UX mastery), Ktor (async APIs), Spring Boot (enterprise shields), Docker (containerized ops), Wireshark (packet sniffing) | Wireshark like a digital eavesdropper in a spy thriller | Ethical penetration testing or deploying microservices in cloud fortresses |
-| Domains | Cybersecurity (vulnerability hunting), App Dev (user-centric builds), Multiplatform (cross-device harmony), Backend (data guardians) | CTF as a virtual treasure hunt in the matrix | Securing IoT devices or creating cross-platform tools for global users |
-| Emerging Tech | Quantum Computing (future-proof encryption), AI Ethics (bias-busting algorithms), Blockchain (decentralized trust), VR (immersive worlds) | Quantum as the ultimate codebreaker paradox | Developing AI models that respect cultural diversity or VR experiences blending legends with logic |
+<div align="center">
+  
+### ⚡ **I don't follow rules. I rewrite them.**
 
-Pro Tip: Always layer security—like using companion objects in Kotlin for singleton utilities or abstract classes for extensible defenses. Common pitfalls? Forgetting type safety in generics or overlooking coroutine cancellations—lessons from "Muhammad's Journey" app builds.
+*Cyber architect by night. Code poet by dawn. System breaker by nature.*
 
-### Animated Motions: Bringing the Matrix to Life
-To amp up the hacker immersion, I've embedded animated GIFs that capture the essence of coding in the cosmos. These aren't static; they're dynamic portals into the digital flow:
-- The matrix rain above symbolizes endless code possibilities—free-flowing, unstoppable.
-- Midway, the code cascade evokes real-time hacking sessions, where every line is a step into the unknown.
+</div>
 
-If you're viewing on GitHub, watch the animations loop as you scroll—pure cyberpunk energy without infringing on any realms.
+---
 
-### Metrics Decoded: Stats with Neon Glow
-The provided stats widgets are customized for a dark, futuristic vibe—black backgrounds, cyan borders, purple accents. They track commits like a hacker's ledger:
-- Profile Stats: Visualizes contributions, repos, and stars—proof of cosmic activity.
-- Streak Stats: Tracks daily hacks, ensuring the fire never dims.
-- Top Languages: Compact chart highlighting Java and Kotlin dominance.
+## 🎯 [ CURRENT OPERATIONS ]
 
-These are live APIs, updating in real-time. Hacker twist: Imagine them as dashboard monitors in a command center, alerting to new PRs or forks.
+<div align="center">
 
-### Project Portfolio: Creations from the Void
-Expanding on the highlights, each project is a node in my tech network:
-- **kotlinverse**: Not just a repo—a curated galaxy of Kotlin resources. Categories include Android (Jetpack Compose), Backend (Ktor), Multiplatform (SQLDelight), and more. Contribution guidelines? Fork, add maintained libs, PR with docs. Stats: Growing stars, open for collabs.
-- **Muhammad's Journey**: A Kotlin masterpiece using every class type—from enums for task status to generics for flexible tracking. Directory: com.muhammadsjourney with subpackages for models, utils. Code snippets? Full implementations with coroutines for async progress updates.
-- **Cyber Quests**: In dev—tools for CTF, including regex scanners and network analyzers. Future: Integrate pubchempy for chem-inspired puzzles or rdkit for molecular hacks.
+```diff
++ Architecting the unthinkable
++ Penetrating digital fortresses
++ Crafting zero-day solutions
+! Warning: Unstoppable force detected
+- Sleeping (System does not compute)
+```
 
-All projects emphasize modularity, type safety, and ethical use—no dark side exploits here.
+</div>
 
-### Connection Protocols: Link Up Securely
-In the vast cyber void, connections are key. My X handle shares quick hacks and cultural code blends; LinkedIn for pro discussions on ISO-standard mnemonics (like for polymorphism: "Poly Means Many—ISO for Interchangeable Shapes"). Blog incoming: Expect deep dives into RelativeLayout analogies (furniture arrangements in Urdu/English) or coroutine lifecycles with NotebookLM prompts.
+---
 
-### Final Hack: Why This Profile?
-This README isn't static—it's a living entity, evolving with each commit. Tailored to my personality: Futuristic, creative, hacker-centric, with animations adding motion to the narrative. No copyrights breached—all elements are open-source friendly or public embeds. Ready to join the quest? Star, fork, or message—let's hack the stars! 🌌💥
+## 💀 [ ARSENAL: TECH STACK ]
+
+<div align="center">
+
+### ⚔️ Languages & Weapons
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000)
+
+### 🛡️ Frameworks & Defense Systems
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🔧 Hacker Tools & Exploits
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 [ SYSTEM DIAGNOSTICS ]
+
+<!-- PROFILE STATS -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cosmichackerx&show_icons=true&theme=tokyonight&border_color=00FFFF&title_color=9D00FF&icon_color=9D00FF&text_color=FFFFFF&bg_color=0D1117&hide_border=false" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmichackerx&theme=tokyonight&border=00FFFF&ring=9D00FF&fire=9D00FF&currStreakLabel=00FFFF&background=0D1117" width="49%" alt="GitHub Streak"/>
+</div>
+
+<!-- TOP LANGUAGES -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmichackerx&layout=compact&theme=tokyonight&title_color=9D00FF&text_color=FFFFFF&border_color=00FFFF&bg_color=0D1117" width="45%" alt="Top Languages"/>
+</div>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cosmichackerx&theme=tokyo-night&bg_color=0D1117&color=9D00FF&line=00FFFF&point=FFFFFF&area=true&hide_border=false" width="95%" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎮 [ CURRENT PROJECTS: CLASSIFIED ]
+
+<div align="center">
+
+```ascii
+╔════════════════════════════════════════════════════╗
+║  🚀 Next-Gen Cyber Infrastructure                  ║
+║  💎 Blockchain Security Protocols                  ║
+║  🧠 AI-Powered Penetration Tools                   ║
+║  🌐 Decentralized Anonymous Networks               ║
+║  ⚡ Zero-Trust Architecture Systems                ║
+╚════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🏆 [ ACHIEVEMENTS UNLOCKED ]
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=cosmichackerx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title_color=9D00FF&text_color=00FFFF&icon_color=00FFFF&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🌐 [ SIGNAL TRANSMISSION CHANNELS ]
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmichackerx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+</div>
+
+---
+
+## 💻 [ HACKER PHILOSOPHY ]
+
+<div align="center">
+
+```python
+class CosmicHacker:
+    def __init__(self):
+        self.mindset = "Break Everything. Build Better."
+        self.code = "Poetry written in logic"
+        self.mission = "Transcend limitations"
+    
+    def hack_reality(self):
+        while True:
+            self.learn()
+            self.break_systems()
+            self.rebuild_better()
+            self.repeat()
+    
+    def motto(self):
+        return "The only limit is the one you accept. 💀"
+```
+
+</div>
+
+---
+
+## 🔥 [ LATEST INTEL: REPOSITORY ACTIVITY ]
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!-- Automatically updated by GitHub Actions -->
+<!--END_SECTION:activity-->
+
+</div>
+
+---
+
+## 📡 [ VISITOR SURVEILLANCE SYSTEM ]
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/cosmichackerx/count.svg)
+
+<img src="https://komarev.com/ghpvc/?username=cosmichackerx&color=9D00FF&style=for-the-badge&label=INTRUSIONS+DETECTED" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **"In a world of 1s and 0s, I choose to be undefined."**
+
+```ascii
+    _______________
+   /               \
+  /   SYSTEM ALERT  \
+ /  HACKER DETECTED  \
+|  THREAT LEVEL: MAX  |
+ \___________________/
+         ||
+         ||
+    _____|_____
+   |  DANGER  |
+   |_ZONE_____|
+```
+
+### 🔴 STATUS: **ALWAYS ONLINE. NEVER OFFLINE.**
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+**💀 Remember: Every system has a backdoor. Every firewall has a weakness. And I know them all. 💀**
+
+*© 2025 CosmicHackerX | Encrypted. Anonymous. Unstoppable.*
+
+</div>
