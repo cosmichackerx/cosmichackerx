@@ -16,17 +16,49 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- PROFILE STATS -->
-<div align="center" style="margin-top: 15px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF; width: 95%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosmichackerx&show_icons=true&theme=tokyonight&border_color=00FFFF&title_color=9D00FF&icon_color=9D00FF&text_color=FFFFFF" width="420" alt="JawadYT36 GitHub Stats"/>
-</div>
+# 👾 cosmichackerx
 
-<!-- STREAK STATS -->
-<div align="center" style="margin-top: 15px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF; width: 95%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmichackerx&theme=tokyonight&border=00FFFF&ring=9D00FF&fire=9D00FF&currStreakLabel=00FFFF" width="420" alt="GitHub Streak"/>
-</div>
+> 🚀 Exploring the edges of code, creativity, and cosmic curiosity.
 
-<!-- TOP LANGUAGES -->
-<div align="center" style="margin-top: 15px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF; width: 95%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadYT36&layout=compact&theme=tokyonight&title_color=9D00FF&text_color=FFFFFF&border_color=00FFFF" width="320" alt="Top Languages"/>
-</div>
+![Hacker Vibes](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+## 🌌 Who Am I?
+
+I'm not your average developer. I'm a **cosmic hacker**—a digital explorer who thrives on bending the rules of reality with code.
+
+- 🧠 Self-taught, self-driven, and always learning
+- 💻 Passionate about cybersecurity, automation, and AI
+- 🛠️ I break things to understand them—and build them back better
+- 🌐 I believe the internet is our playground, and knowledge should be free
+
+## 🔭 What I'm Working On
+
+This repo is my **digital fingerprint**—a living, breathing space where I experiment, iterate, and evolve. Expect:
+
+- ⚙️ Scripts, exploits, and automation tools
+- 🧪 Experimental projects and proof-of-concepts
+- 🧠 Notes, ideas, and raw thoughts from the edge of innovation
+
+## 🧬 Philosophy
+
+> “Hack the planet” isn’t just a phrase—it’s a mindset.
+
+I believe in:
+- **Open source as a weapon** for empowerment
+- **Curiosity as a compass** for growth
+- **Code as a canvas** for expression
+
+## 🛰️ Connect With Me
+
+If you're into:
+- Ethical hacking
+- Building cool stuff
+- Thinking differently
+
+Then we’re already friends. Let’s collaborate, share ideas, or just vibe.
+
+---
+
+🛸 _Stay weird. Stay curious. Stay cosmic._
+
+![Cosmic Flow](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
