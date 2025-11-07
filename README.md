@@ -1,46 +1,16 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=COSMIC%20HACKER%20X%20%7C%20DANGER%20MODE&fontSize=50&fontColor=FF0000&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20the%20Matrix%20—%20Threat%20Level%3A%20CRITICAL&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=COSMIC%20HACKER%20X&fontSize=50&fontColor=00FFFF&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20the%20Matrix&descSize=20&descAlignY=55" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=700&color=FF0000&center=true&vCenter=true&random=false&width=680&lines=System+Breach+Detected+%E2%9A%A0%EF%B8%8F;ACCESS+LEVEL%3A+ROOT%3A%20DANGER;Cyber+Architect+%7C+Code+Ninja;Breaking+Firewalls+Daily+%F0%9F%94%A5;Reality+is+just+Code+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=System+Breach+Detected+%E2%9A%A0%EF%B8%8F;Accessing+Mainframe...;Cyber+Architect+%7C+Code+Ninja;Breaking+Firewalls+Daily+%F0%9F%94%A5;Reality+is+just+Code+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-# 🔥 COSMICHACKERX — DANGER MODE (ISO-READY)
-
-> **Threat Level:** CRITICAL — Handle with formal caution.
-
----
-
-## ⚠️ Visual Danger Enhancements
-
-* High contrast red/black header to signal criticality.
-* Hazard stripes for section dividers (visual emphasis on warnings).
-* Danger badges and status shields for immediate telemetry.
-* Animated "pulse" and "alert" indicators using SVG badges (works on GitHub README).
-
-```html
-<!-- Example hazard stripe (copy-paste-ready) -->
-<div style="width:100%;padding:6px 0;background:repeating-linear-gradient(-45deg,#ff0000 0 10px,#000 10px 20px);border-radius:6px;text-align:center;color:#fff;font-weight:700;">DANGER: SENSITIVE OPERATIONS</div>
-```
-
----
-
-## 🧨 Danger Badges & Quick Status
-
-![DANGER](https://img.shields.io/badge/THREAT-CRITICAL-red?style=for-the-badge\&logo=security\&logoColor=white)
-![ISO-READY](https://img.shields.io/badge/ISO-27001%20Aligned-9D00FF?style=for-the-badge\&logo=iso\&logoColor=white)
-![Uptime](https://img.shields.io/badge/STATUS-ALWAYS_ON-brightgreen?style=for-the-badge)
-
----
-
-## 🔴 IDENTITY PROTOCOL (Retained & Hardened)
+## 🔴 [ IDENTITY PROTOCOL ]
 
 ```bash
 > whoami
@@ -55,142 +25,172 @@ cosmichackerx@terminal:~$ Initializing identity matrix...
 └─────────────────────────────────────────────────┘
 ```
 
-> **Note:** Identity metadata is versioned and audit-logged per repository audit policy.
+<div align="center">
+  
+### ⚡ **I don't follow rules. I rewrite them.**
+
+*Cyber architect by night. Code poet by dawn. System breaker by nature.*
+
+</div>
 
 ---
 
-## 🧾 ISO / SECURITY STANDARDS — SUMMARY & ALIGNMENT
-
-This repository now includes an **ISO-minded appendix** and practical controls to bring it closer to industry best practice for security and quality.
-
-### ✅ Standards referenced
-
-* **ISO/IEC 27001** — Information Security Management (ISMS) alignment checklist
-* **ISO/IEC 27035** — Incident management and response
-* **ISO 9001** — Quality management principles (development process hygiene)
-* **ISO 31000** — Risk management framework
-* **ISO/IEC 29147** — Vulnerability disclosure guidelines
-
-### 🔎 What’s included (PR-ready)
-
-1. **Statement of Conformity (SoC)** — brief statement describing which ISO controls this project targets and the maturity level.
-2. **Risk Register (lightweight)** — CSV/Markdown table listing threats, likelihood, impact, mitigation, and owner.
-3. **Secure Development Lifecycle (SDL)** — checklist: threat modeling, static analysis, SCA, code reviews, CI gating, secrets scanning.
-4. **Incident Response Playbook (skeleton)** — triage, containment, eradication, recovery, lessons learned steps mapped to ISO 27035.
-5. **Vulnerability Disclosure Policy (VDP)** — responsible disclosure contact and bounty expectations (mapped to ISO/IEC 29147).
-6. **Audit Trail** — basic commit tagging convention + changelog format supporting evidence for audits.
-
----
-
-## 📋 ISO-READY APPENDIX (TEMPLATE SNIPPETS)
-
-### 1) Statement of Conformity (SoC)
-
-```md
-### Statement of Conformity
-This repository adopts baseline controls mapped to ISO/IEC 27001:2013 Annex A. Current coverage: A.5–A.18 (selected controls). Maturity: Partial. Evidence: secure-dev-checklist.md, risk-register.md, incident-playbook.md, vdp.md.
-```
-
-### 2) Risk Register (short format)
-
-| ID    | Threat                                   | Likelihood | Impact | Owner       | Mitigation                                     |
-| ----- | ---------------------------------------- | ---------- | ------ | ----------- | ---------------------------------------------- |
-| R-001 | Credential leakage via accidental commit | Medium     | High   | @maintainer | Pre-commit secret scan, CI fail, rotation plan |
-| R-002 | Supply-chain compromise                  | Low        | High   | @maintainer | Pin dependencies, SBOM, SCA scans              |
-
-*(Add to `risk-register.md` in repo root)*
-
-### 3) Secure Dev Checklist (sdl.md)
-
-* [x] Threat modeling at design phase
-* [x] Static code analysis enabled in CI
-* [x] Dependency scanning (SCA)
-* [x] Secrets scanning (pre-commit + CI)
-* [ ] Periodic external pentest schedule (quarterly)
-
-### 4) Incident Playbook (incident-playbook.md)
-
-* **Detect** — triage, severity scoring
-* **Contain** — isolate systems, revoke keys
-* **Eradicate** — patch, remove backdoors
-* **Recover** — restore from trusted backups
-* **Review** — root cause & update controls
-
-### 5) Vulnerability Disclosure Policy (vdp.md)
-
-* Contact: `security@cosmichackerx.example` (template — replace)
-* Response SLA: Acknowledge within 72 hours; triage within 14 days
-* Safe harbor: Researchers acting in good faith will not be pursued
-
----
-
-## 🛡️ DevOps & Audit Controls
-
-* **CI/CD gates:** Tests, linters, SCA, secrets scan, unit tests, integration smoke tests.
-* **SBOM:** `sbom/` folder for supply chain transparency (CycloneDX or SPDX suggested).
-* **Changelog:** `CHANGELOG.md` with tags following SemVer and audit notes for major security fixes.
-* **Evidence folder:** `audit/` to store signed artifacts, scan results, penetration test reports (redacted if needed).
-
----
-
-## 🧭 Risk Matrix (visual quick-check)
-
-```text
-Impact →
-High  [R-002]          [R-001]
-Med   [   ]            [   ]
-Low   [   ]            [   ]
-      Low   Med    High ← Likelihood
-```
-
----
-
-## 💀 Enhanced Danger Visuals (copy-ready blocks)
-
-### Hazard stripe block (use in README sections to call attention)
-
-<div style="width:100%;padding:8px;background:repeating-linear-gradient(-45deg,#ff0000 0 8px,#111 8px 16px);border-radius:6px;color:#fff;font-weight:800;text-align:center;">⚠️  HAZARD: SENSITIVE OPERATIONS — AUTHORIZED PERSONNEL ONLY  ⚠️</div>
-
-### Red alert pulse (SVG badge)
-
-<img src="https://img.shields.io/badge/ALERT-PULSE-%23FF0000?style=for-the-badge&logo=critical" alt="alert" />
-
----
-
-## 🔁 Governance & Versioning (audit-friendly)
-
-* **Tagging policy:** `vYYYY.MM.DD-<major>` for security-critical releases.
-* **Signed releases:** GPG-signed artifacts for major security patches.
-* **Retention:** Keep audit logs and signed scan outputs for N months (define as org policy).
-
----
-
-## 🧾 Files to Add (suggested repo structure)
-
-```
-README.md
-risk-register.md
-sdl.md
-incident-playbook.md
-vdp.md
-sbom/
-audit/
-CHANGELOG.md
-```
-
----
-
-## 🚩 WARNINGS & LEGAL NOTE
-
-This profile is a persona and for educational/demo purposes. Do not use this repository to store or enable unlawful access to systems. Security controls and policies are templates and must be adapted to your organization, legal counsel, and compliance obligations.
-
----
-
-## 🔥 OPERATIONAL TELEMETRY & FOOTER
+## 🎯 [ CURRENT OPERATIONS ]
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=cosmichackerx\&theme=dark\&no-frame=true\&no-bg=false\&margin-w=4\&column=7)
+```diff
++ Architecting the unthinkable
++ Penetrating digital fortresses
++ Crafting zero-day solutions
+! Warning: Unstoppable force detected
+- Sleeping (System does not compute)
+```
+
+</div>
+
+---
+
+## 💀 [ ARSENAL: TECH STACK ]
+
+<div align="center">
+
+### ⚔️ Languages & Weapons
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000)
+
+### 🛡️ Frameworks & Defense Systems
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🔧 Hacker Tools & Exploits
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 [ SYSTEM DIAGNOSTICS ]
+
+<!-- PROFILE STATS -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cosmichackerx&show_icons=true&theme=tokyonight&border_color=00FFFF&title_color=9D00FF&icon_color=9D00FF&text_color=FFFFFF&bg_color=0D1117&hide_border=false" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmichackerx&theme=tokyonight&border=00FFFF&ring=9D00FF&fire=9D00FF&currStreakLabel=00FFFF&background=0D1117" width="49%" alt="GitHub Streak"/>
+</div>
+
+<!-- TOP LANGUAGES -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmichackerx&layout=compact&theme=tokyonight&title_color=9D00FF&text_color=FFFFFF&border_color=00FFFF&bg_color=0D1117" width="45%" alt="Top Languages"/>
+</div>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cosmichackerx&theme=tokyo-night&bg_color=0D1117&color=9D00FF&line=00FFFF&point=FFFFFF&area=true&hide_border=false" width="95%" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎮 [ CURRENT PROJECTS: CLASSIFIED ]
+
+<div align="center">
+
+```ascii
+╔════════════════════════════════════════════════════╗
+║  🚀 Next-Gen Cyber Infrastructure                  ║
+║  💎 Blockchain Security Protocols                  ║
+║  🧠 AI-Powered Penetration Tools                   ║
+║  🌐 Decentralized Anonymous Networks               ║
+║  ⚡ Zero-Trust Architecture Systems                ║
+╚════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🏆 [ ACHIEVEMENTS UNLOCKED ]
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=cosmichackerx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title_color=9D00FF&text_color=00FFFF&icon_color=00FFFF&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🌐 [ SIGNAL TRANSMISSION CHANNELS ]
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmichackerx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+</div>
+
+---
+
+## 💻 [ HACKER PHILOSOPHY ]
+
+<div align="center">
+
+```python
+class CosmicHacker:
+    def __init__(self):
+        self.mindset = "Break Everything. Build Better."
+        self.code = "Poetry written in logic"
+        self.mission = "Transcend limitations"
+    
+    def hack_reality(self):
+        while True:
+            self.learn()
+            self.break_systems()
+            self.rebuild_better()
+            self.repeat()
+    
+    def motto(self):
+        return "The only limit is the one you accept. 💀"
+```
+
+</div>
+
+---
+
+## 🔥 [ LATEST INTEL: REPOSITORY ACTIVITY ]
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!-- Automatically updated by GitHub Actions -->
+<!--END_SECTION:activity-->
+
+</div>
+
+---
+
+## 📡 [ VISITOR SURVEILLANCE SYSTEM ]
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/cosmichackerx/count.svg)
+
+<img src="https://komarev.com/ghpvc/?username=cosmichackerx&color=9D00FF&style=for-the-badge&label=INTRUSIONS+DETECTED" alt="Profile Views"/>
 
 </div>
 
@@ -198,12 +198,35 @@ This profile is a persona and for educational/demo purposes. Do not use this rep
 
 <div align="center">
 
-**⚡ STATUS: DANGER MODE ENABLED — ISO-READINESS TEMPLATES INSTALLED.**
+### ⚡ **"In a world of 1s and 0s, I choose to be undefined."**
 
+```ascii
+    _______________
+   /               \
+  /   SYSTEM ALERT  \
+ /  HACKER DETECTED  \
+|  THREAT LEVEL: MAX  |
+ \___________________/
+         ||
+         ||
+    _____|_____
+   |  DANGER  |
+   |_ZONE_____|
+```
+
+### 🔴 STATUS: **ALWAYS ONLINE. NEVER OFFLINE.**
+
+<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
 ---
 
-*© 2025 CosmicHackerX | Encrypted. ISO-minded. Dangerous.*
+<div align="center">
+  
+**💀 Remember: Every system has a backdoor. Every firewall has a weakness. And I know them all. 💀**
+
+*© 2025 CosmicHackerX | Encrypted. Anonymous. Unstoppable.*
+
+</div>
