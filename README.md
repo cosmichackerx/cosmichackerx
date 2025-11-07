@@ -1,11 +1,5 @@
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=100&lines=⚠️+CRITICAL+SYSTEM+BREACH+DETECTED+⚠️;🔴+ACCESSING+ENCRYPTED+MAINFRAME...;💀+CYBER+ARCHITECT+%7C+CODE+ASSASSIN+💀;🔥+BREAKING+FIREWALLS+%26+PROTOCOLS+🔥;⚡+REALITY+IS+JUST+COMPILED+CODE+⚡;🎯+EXPLOITING+VULNERABILITIES+DAILY+🎯;🚨+THREAT+LEVEL%3A+MAXIMUM+🚨)
-
-<a href="https://git.io/typing-svg" title="Make your own typing SVG">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=100&lines=⚠️+CRITICAL+SYSTEM+BREACH+DETECTED+⚠️;🔴+ACCESSING+ENCRYPTED+MAINFRAME...;💀+CYBER+ARCHITECT+%7C+CODE+ASSASSIN+💀;🔥+BREAKING+FIREWALLS+%26+PROTOCOLS+🔥;⚡+REALITY+IS+JUST+COMPILED+CODE+⚡;🎯+EXPLOITING+VULNERABILITIES+DAILY+🎯;🚨+THREAT+LEVEL%3A+MAXIMUM+🚨" alt="Typing SVG" />
-</a>
-
 <!-- ANIMATED HEADER WITH ENHANCED GRADIENT -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=250&section=header&text=COSMIC%20HACKER%20X&fontSize=65&fontColor=00FFFF&animation=twinkling&fontAlignY=35&desc=⚠️%20UNAUTHORIZED%20ACCESS%20DETECTED%20⚠️&descSize=25&descAlignY=55&descAlign=50" width="100%"/>
 
