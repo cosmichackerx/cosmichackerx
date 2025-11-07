@@ -1,37 +1,49 @@
-# 👋 Welcome to the Cosmic Hacking Realm! 🌌💻
+# 🌌 CosmicHackerX: Hacking the Digital Cosmos 🚀🔒
 
-Hey there, digital wanderer! I'm **cosmichackerx**, a BSCS trailblazer fusing code, culture, and creativity into a futuristic symphony. Passionate about Java wizardry, cybersecurity fortresses, and Kotlin adventures. I thrive on logic, legends, and lifelong learning—exploring global vibes through ethical hacking, app dev, and multiplatform magic. Let's hack the universe together! 🚀🔒
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFFF&center=true&vCenter=true&width=940&lines=Decoding+the+Matrix+of+Code+and+Culture;Ethical+Hacker+%26+Cyber+Guardian;Java+Wizard+%26+Cosmic+Explorer;Lifelong+Learner+of+Logic+and+Legends" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=600&lines=Code+is+Poetry;Hack+Ethically;Create+Endlessly;🌐+Global+Digital+Nomad)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Hacker Typing GIF" width="100%" />
 
-## 🌟 About Me: The Cosmic Hacker Profile
-- **🛡️ Cyber Sentinel**: Mastering cybersecurity—building unbreakable defenses and ethical exploits. Think firewalls as force fields! 
-- **☕ Java Jedi**: Brewing robust apps with Java's power. From backend beasts to Android empires.
-- **🌀 Kotlin Voyager**: Navigating coroutines, classes, and multiplatform realms. Curator of [kotlinverse](https://github.com/cosmichackerx/kotlinverse)—your ultimate Kotlin cosmos!
-- **🌍 Multilingual Explorer**: Blending tech with cultural tales—logic meets legends in a digital dance.
-- **🎨 Creative Code Alchemist**: Turning ideas into interactive wonders. Interests: AI ethics, blockchain mysteries, and VR worlds.
-- **💡 Motto**: "In the code we trust—hack smart, create bold!" 
+## 🌠 Who Am I? A Cosmic Codebreaker
 
-![Hacker Vibes GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B5aW5kZjRsMTF2d3Z4N2Z3Z2ExbjNiY2Zqc3p5aGRoZ2t3Z3d0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKqnUM9nBCV2mHu/giphy.gif)
+Greetings, fellow digital nomads! I'm CosmicHackerX, a BSCS voyager navigating the infinite realms of code, cybersecurity, and creative chaos. From the neon-lit alleys of Java jungles to the encrypted fortresses of cyber defense, I thrive on turning logic into legends and caffeine into unbreakable algorithms.
 
-## 🛠️ Tech Arsenal: My Hacker Toolkit
-- **Languages**: Java ☕, Kotlin 🌀, Python 🐍, C++ ⚙️
-- **Frameworks & Tools**: Android Jetpack, Ktor, Spring Boot, Docker 🐳, Wireshark 🔍
-- **Domains**: Cybersecurity (Ethical Hacking, CTF), App Development, Backend Engineering, Multiplatform Dev
-- **Learning Quest**: Currently diving into quantum computing and AI-driven security. Always evolving! 📈
+🌍 Multilingual explorer with a global mindset—blending tech with cultural vibes.  
+💡 Passionate about ethical hacking, where every vulnerability is a puzzle waiting to be solved.  
+🔭 Fueled by curiosity: Astronomy, AI, and the art of crafting secure, futuristic systems.  
+🧠 Motto: "Hack the planet, but ethically—leave no trace, only trails of innovation."
 
-| Skill | Level | Vibes |
-|-------|-------|-------|
-| Java | Expert | Building empires, one class at a time 💪 |
-| Kotlin | Advanced | Coroutines flowing like cosmic energy 🌌 |
-| Cybersecurity | Pro | Hacking the matrix—ethically, of course 🔒 |
-| Android Dev | Skilled | Apps that feel alive 📱 |
+Ambitious, futuristic, and always evolving. Let's decode the universe together! 🌌💻
 
-## 📈 GitHub Stats: Hacking Streaks & Insights
+## 🚀 Core Hacking Arsenal & Skills
+
+- **Cybersecurity Mastery**: Penetration testing, network forensics, and building impenetrable shields. 🛡️
+- **Coding Cosmos**: Java (OOP wizardry), Kotlin (for multiplatform magic), Python (scripting sorcery), C++ (low-level hacks).  
+- **Frameworks & Tools**: Android Studio for app infiltration, Swing for GUI exploits, Wireshark for packet espionage, Docker for containerized ops, Git for version control dominance.  
+- **Emerging Frontiers**: AI-driven threat detection, deep learning models, and UI/UX designs that scream "hacker chic." 🎨🔐
+- **Creative Hacks**: Merging code with culture—think apps that celebrate legends while securing data like a vault.
+
+Hacker Tip: Always think like an attacker to build like a defender. 💀🛡️
+
+## ⚙️ Featured Cyber Missions (Projects)
+
+| 🚧 Mission Name | ⚡ Intel Briefing |
+| -- | -- |
+| [KotlinVerse](https://github.com/cosmichackerx/kotlinverse) | A curated arsenal of Kotlin libraries, frameworks, and tools for Android, Backend, Multiplatform hacks, and more. Your go-to repo for Kotlin dominance! 📚🔧 |
+| WiFi Password Tester | Ethical tool to probe Wi-Fi defenses with a sleek Java Swing interface. Test, learn, secure. 📡🗝️ |
+| SNMP Network Monitor | Simulate and surveil networks with SNMP protocols—complete with hack-ready slides for your next op. 🌐📊 |
+| Mini Network Tools | Packet sniffers and visualizers for beginner cyber ops. Perfect for honing your reconnaissance skills. 🔍📈 |
+
+## 🔮 Hacker Vibes & Animated Intel
+
+Dive into the matrix with these animated glimpses of my world:
+
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Matrix Code Rain GIF" width="49%" />
+<img src="https://media.giphy.com/media/3o7TKz9bX9v8zJZqHs/giphy.gif" alt="Hacker Console GIF" width="49%" />
 
 <!-- PROFILE STATS -->
 <div align="center" style="margin-top: 15px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF; width: 95%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosmichackerx&show_icons=true&theme=tokyonight&border_color=00FFFF&title_color=9D00FF&icon_color=9D00FF&text_color=FFFFFF" width="420" alt="cosmichackerx GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cosmichackerx&show_icons=true&theme=tokyonight&border_color=00FFFF&title_color=9D00FF&icon_color=9D00FF&text_color=FFFFFF" width="420" alt="CosmicHackerX GitHub Stats"/>
 </div>
 <!-- STREAK STATS -->
 <div align="center" style="margin-top: 15px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF; width: 95%;">
@@ -42,22 +54,16 @@ Hey there, digital wanderer! I'm **cosmichackerx**, a BSCS trailblazer fusing co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmichackerx&layout=compact&theme=tokyonight&title_color=9D00FF&text_color=FFFFFF&border_color=00FFFF" width="320" alt="Top Languages"/>
 </div>
 
-## 🚀 Projects: Cosmic Creations
-- **[kotlinverse](https://github.com/cosmichackerx/kotlinverse)**: A stellar collection of Kotlin libs & tools—Android to Web, all in one galaxy! 🌟
-- **Muhammad's Journey**: A task management app blending OOP mastery with personal growth tracking. Level up your life! 📊
-- **Cyber Quests**: Ethical hacking tools and CTF solvers—coming soon to decrypt the unknown. 🕵️‍♂️
+## 🌐 Infiltrate My Network
 
-![Coding Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+- [LinkedIn](https://linkedin.com/in/cosmichackerx) – Professional cyber alliances.  
+- [X (Twitter)](https://twitter.com/cosmichackerx) – Quick hacks and cosmic thoughts.  
+- [Email](mailto:cosmichackerx@example.com) – For classified collaborations.  
 
-## 🔗 Connect in the Digital Void
-- **X (Twitter)**: [@cosmichackerx](https://x.com/cosmichackerx) – Dropping tech wisdom & creative sparks! 💥
-- **LinkedIn**: [cosmichackerx](https://www.linkedin.com/in/cosmichackerx) – Professional networking with a hacker twist.
-- **Blog**: Coming soon—chronicles of code & culture. 📝
+## 🪐 Final Transmission
 
-Feel free to fork, star, or collaborate! Let's build something epic. 🌠
+In this vast digital cosmos, I'm not just coding—I'm crafting secure galaxies of innovation. Stay vigilant, hack ethically, and remember: The best defense is a cosmic offense. 🌌🔥
 
-![Hacker Matrix GIF](https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif)
+<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Hacker Hoodie GIF" width="100%" />
 
----
-
-*Powered by curiosity, coffee, and cyber vibes. Last hacked: November 2025.*
+Fueled by ☕, Driven by Dreams, Crafted in Pakistan 🇵🇰. Let's connect and conquer the code! 💥
