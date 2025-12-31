@@ -532,7 +532,7 @@ CONTINUOUS EVOLUTION | PERPETUAL DOMINATION | ABSOLUTE EXCELLENCE
 <img src="https://img.shields.io/badge/🔴-CLEARANCE_LEVEL_OMEGA-8B0000?style=for-the-badge&labelColor=000000" alt="Clearance"/>
 <img src="https://img.shields.io/badge/💀-HANDLE_WITH_EXTREME_CAUTION-FF4500?style=for-the-badge&labelColor=000000" alt="Caution"/>
 
-**© 2025 CosmicHackerX | Encrypted. Anonymous. Inevitable.**  
+**© 2026 CosmicHackerX | Encrypted. Anonymous. Inevitable.**  
 *ISO 27001 Certified | NIST Compliant | OWASP Validated*
 
 ```
