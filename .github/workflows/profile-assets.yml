@@ -43,6 +43,15 @@ jobs:
           outputs: |
             profile/snake.svg?color_snake=#00FFFF&color_dots=#161b22,#4c0000,#8b0000,#cc0000,#ff0000
 
+      # Fills the <!--START_SECTION:activity--> block in README.md with recent public activity.
+      - name: Activity feed
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: refresh activity feed"
+          MAX_LINES: 8
+
       - name: Commit generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
