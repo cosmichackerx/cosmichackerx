@@ -283,7 +283,7 @@ Current XP Target: Exploit dev · Cloud security · CVE #1
 </div>
 
 <!--START_SECTION:activity-->
-<!-- Filled automatically by .github/workflows/profile-assets.yml -->
+1. 🚀 Published release [v0.2.1 — No WhatsApp shutdown/restart](https://github.com/cosmichackerx/cosmic-wa-bot/releases/tag/v0.2.1) in [cosmichackerx/cosmic-wa-bot](https://github.com/cosmichackerx/cosmic-wa-bot)
 <!--END_SECTION:activity-->
 
 ---
